@@ -1,0 +1,14 @@
+.header{
+    width: auto;
+    height: 80px;
+    border-style: groove;
+    background-color: brown;
+}
+.header h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:150%;
+    text-transform: uppercase;
+    color:cyan;
+    margin-top: 15px;
+    text-align: center;
+}
